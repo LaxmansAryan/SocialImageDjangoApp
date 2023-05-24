@@ -16,7 +16,7 @@ The social image sharing app incorporates the following key features:
 To set up the social image sharing app locally, follow these steps:
 
 - Clone the repository:
-git clone https://github.com/LaxmansAryan/social-image-django-app.git
+git clone https://github.com/LaxmansAryan/SocialImageDjangoApp
 - Install dependencies:
   cd bookmarks
   pip install -r requirements.txt
