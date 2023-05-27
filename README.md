@@ -56,3 +56,47 @@ Contributions to the social image sharing app are welcome! If you'd like to cont
 
 ## Contact
 If you have any questions, suggestions, or feedback, please feel free to contact us sawantaryan16@gmail.com.
+
+## Screenshots
+- Login Page
+<img width="960" alt="1" src="https://github.com/LaxmansAryan/SocialImageDjangoApp/assets/102072945/d991ec1e-ed63-451b-a2c6-5a5987eea627">
+
+
+- Forgotten Password
+<img width="960" alt="2" src="https://github.com/LaxmansAryan/SocialImageDjangoApp/assets/102072945/920250c4-0e8c-4e42-93a6-37da507cd154">
+
+
+- Registration
+<img width="947" alt="3" src="https://github.com/LaxmansAryan/SocialImageDjangoApp/assets/102072945/f2d701eb-42bb-4920-b3c6-a8dfc2eede05">
+
+
+- Welcome Page
+<img width="960" alt="4" src="https://github.com/LaxmansAryan/SocialImageDjangoApp/assets/102072945/22c4762e-4491-4c29-99ac-135bf83564c5">
+
+
+- Dashboard
+<img width="960" alt="5" src="https://github.com/LaxmansAryan/SocialImageDjangoApp/assets/102072945/641fba9e-a8a3-48c5-afa6-7547057c9d88">
+
+
+- Edit Page
+<img width="947" alt="6" src="https://github.com/LaxmansAryan/SocialImageDjangoApp/assets/102072945/329d1810-116f-42e1-8bda-8f6cb37ffbb3">
+
+
+- Dashboard with Latest Updates
+<img width="960" alt="7" src="https://github.com/LaxmansAryan/SocialImageDjangoApp/assets/102072945/07569065-40d3-4d07-9673-991f2a11b1de">
+
+
+- Dashboard Again 
+<img width="960" alt="11" src="https://github.com/LaxmansAryan/SocialImageDjangoApp/assets/102072945/96d64927-280c-437b-b44e-b090778a9d08">
+
+
+- Images Bookmarked
+<img width="960" alt="8" src="https://github.com/LaxmansAryan/SocialImageDjangoApp/assets/102072945/e381df9c-603f-44cb-8fdd-6a657a493e84">
+
+
+- Image detail
+<img width="948" alt="9" src="https://github.com/LaxmansAryan/SocialImageDjangoApp/assets/102072945/a6536834-6582-421f-84e4-089161bbbf98">
+
+
+- Accounts
+<img width="960" alt="10" src="https://github.com/LaxmansAryan/SocialImageDjangoApp/assets/102072945/520e08f0-fef4-4ee5-9c34-0ba62497db7c">
